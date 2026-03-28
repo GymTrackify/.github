@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="DEVS (1)" src="https://github.com/user-attachments/assets/0176392a-7e9e-420a-95c1-a477b5ba7e23" />
+<img width="1920" height="1080" alt="DEVS (1)" src="imagem.png" />
 
 ## GYM TRACKIFY 🏋️‍♂️🔥 
 
