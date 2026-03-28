@@ -14,7 +14,7 @@ tornando o acompanhamento do progresso algo prático e acessível no dia a dia.
 - Organização semanal de treino
 
 ## 🚀 Como usar
-Projeto em desenvolvimento.
+Projeto atualmente em manutenção. Em breve estará disponível com todas as funcionalidades para registro e acompanhamento de treinos.
 
 
 ## 🤝 Colaboradores 
@@ -30,6 +30,12 @@ Projeto em desenvolvimento.
         </sub>
       </a>
     </td>
-      
-  </tr>
+    <td align="center">
+      <a href="#" title="https://github.com/PatoDevs">
+        <img src="https://avatars.githubusercontent.com/u/222550859?s=200&v=4" width="100px;" alt="Foto PatoDevs"/><br>
+        <sub>
+          <b>PatoDevs</b>
+        </sub>
+      </a>
+    </td>
 </table>
