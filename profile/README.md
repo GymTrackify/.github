@@ -13,25 +13,4 @@ tornando o acompanhamento do progresso algo prático e acessível no dia a dia.
 - Acompanhamento de evolução
 - Organização semanal de treino
 
-## `3º` **|** Colaboradores  🤝
 
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#" title="https://github.com/matheusfrdev">
-        <img src="https://avatars.githubusercontent.com/u/122581322?v=4" width="100px;" alt="Foto Matheus"/><br>
-        <sub>
-          <b>Matheus</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" title="https://github.com/PatoDevs">
-        <img src="https://avatars.githubusercontent.com/u/222550859?s=200&v=4" width="100px;" alt="Foto PatoDevs"/><br>
-        <sub>
-          <b>PatoDevs</b>
-        </sub>
-      </a>
-    </td>
-</table>
