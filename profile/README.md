@@ -12,7 +12,7 @@ tornando o acompanhamento do progresso algo prático e acessível no dia a dia.
 - Organização semanal de treino
 
 ## `3º` **|** Suporte  
-- 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
+- 🖥️ **Plataforma:** [gymtrackify.com.br](gymtrackify.netlify.app/)
 - ⚙ **Discord:** [discord.gg/gymtrackify](https://discord.gymtrackify)
 - 📩 **Email:** [gymtrackify@gmail.com](gymtrackify@gmail.com)
 
