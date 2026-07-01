@@ -11,5 +11,10 @@ tornando o acompanhamento do progresso algo prático e acessível no dia a dia.
 - Acompanhamento de evolução
 - Organização semanal de treino
 
+## `3º` **|** Suporte  
+- 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
+- ⚙ **Discord:** [discord.gg/gymtrackify](https://discord.gymtrackify)
+- 📩 **Email:** [gymtrackify@gmail.com](gymtrackify@gmail.com)
+
 <img width="1920" height="1080" alt="capa" src="https://github.com/user-attachments/assets/d2218b6e-54bf-4ae8-93c1-2c53de67958d" />
 
